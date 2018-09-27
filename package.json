@@ -1,0 +1,23 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "//Append File creates new file or appends to whatever is present\r fs.appendFile('greetings.txt', 'Hello World');\r //When this is not working use any other option below",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinkapalidigi/notes-node.git"
+  },
+  "author": "\"sachin\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinkapalidigi/notes-node/issues"
+  },
+  "homepage": "https://github.com/sachinkapalidigi/notes-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "^4.7.1"
+  }
+}
